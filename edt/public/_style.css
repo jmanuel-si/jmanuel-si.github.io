@@ -9,20 +9,21 @@
 }
 
 .fondBleuMarine {
-	background-color: #006699; 
+	background-color: #FFF; 
 }
 
 .fondBleuVert {
-	background-color: #99CCCC; 
+	background-color: #999; 
 }
 
 .espaceGauche {
-  padding-left:30px;  
+  padding-left:10px;  
 }
 
 .titre {
-  color: white;	
-  vertical-align: middle; 	
+  color: #676767;	
+  vertical-align: middle;
+	font-variant: small-caps; 	
 }
 
 .emploi {
@@ -40,7 +41,7 @@
 }
 
 .choix {
-  color: #006666;
+  color: #FFF;
   vertical-align: middle; 
 }
 
@@ -61,5 +62,12 @@ select, .choix, .genre, .recherche {
 }
 
 select, .signature, .choix, .titre {
-  font-family: Verdana,Geneva,Arial,Helvetica,sans-serif; 
+	font-family:  'Arial';
+}
+
+h1 {
+  font-variant: small-caps;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.3;
 }
