@@ -4,6 +4,6 @@ listeSignature ["grClasse"] = "Réalisé par EDT, l'emploi du temps dans les col
 listeSignature ["grSalle"] = "Réalisé par EDT, l'emploi du temps dans les collèges et les lycées.";
 listeSignature ["grEleve"] = "Réalisé par EDT, l'emploi du temps dans les collèges et les lycées.";
 listeSignature ["grSession"] = "Réalisé par EDT, le planning dans les collèges et les lycées.";
-var SigUrlSite = "http://www.index-education.com/";
+var SigUrlSite = "https://www.index-education.com/";
 var SigUrlTitre = "INDEX ÉDUCATION : Éditeur de logiciels de gestion pédagogique pour l'enseignement";
 var SigIdxEditeur = "Éditeur de logiciels";
